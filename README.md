@@ -39,4 +39,6 @@ Run the app in `cmd.exe`.
 .\Debug\BarcodeReader.exe <video-file>
 ```
 
+![barcode panorama stitch](http://www.codepool.biz/wp-content/uploads/2020/03/barcode-panorama-stitch.png)
+
 
