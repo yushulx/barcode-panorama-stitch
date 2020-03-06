@@ -42,3 +42,5 @@ Run the app in `cmd.exe`.
 ![barcode panorama stitch](http://www.codepool.biz/wp-content/uploads/2020/03/barcode-panorama-stitch.png)
 
 
+## Blog
+[Panorama Stitching: New Technology for Barcode Industry](https://www.codepool.biz/panorama-stitching-barcode-industry.html)
